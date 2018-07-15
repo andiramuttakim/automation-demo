@@ -3,7 +3,7 @@
     using OpenQA.Selenium;
     using System;
 
-    public abstract class Element
+    public abstract class ControlElement
     {
         public virtual By AllElements
         {
